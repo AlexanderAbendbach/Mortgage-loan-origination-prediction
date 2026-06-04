@@ -67,6 +67,8 @@ Install the required packages:
 
     pip install -r requirements.txt
 
+In the folder Data/Raw data/ or at the beginning of the Notebook, find a link to download the original data sample for the year 2014. The .csv file cannot be uploaded manually to GitHub.
+
 The notebook can be accessed via Jupyter Notebook.
 
     Mortgage loan origination.ipynb
