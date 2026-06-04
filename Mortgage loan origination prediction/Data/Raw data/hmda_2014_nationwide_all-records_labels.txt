@@ -1,0 +1,3 @@
+Year: 2014
+
+https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=nationwide&records=all-records&field_descriptions=labels

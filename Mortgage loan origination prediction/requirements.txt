@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+dash
+plotly
+dash-bootstrap-components
+ipython
+scikit-learn
+xgboost
+typing_extensions
