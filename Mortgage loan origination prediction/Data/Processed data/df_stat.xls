@@ -1,0 +1,1445 @@
+Feature,Subfeature,Total (#),Successful (#),Successful (%)
+loan_type_name,Conventional,928159,590631,63.634678972029576
+loan_type_name,FHA-insured,147717,95184,64.43672698470725
+loan_type_name,FSA/RHS-guaranteed,20669,14979,72.4708500653152
+loan_type_name,VA-guaranteed,77824,50362,64.71268503289474
+property_type_name,Manufactured housing,24417,9673,39.615841421960106
+property_type_name,One-to-four family dwelling (other than manufactured housing),1149952,741483,64.47947392586822
+loan_purpose_name,Home improvement,97651,49141,50.32308936928449
+loan_purpose_name,Home purchase,555877,416596,74.9439174493638
+loan_purpose_name,Refinancing,520841,285419,54.79964134927934
+owner_occupancy_name,Not owner-occupied as a principal dwelling,128953,80904,62.73913751521872
+owner_occupancy_name,Owner-occupied as a principal dwelling,1045416,670252,64.11342470365864
+msamd_name,Abilene - TX,204,156,76.47058823529412
+msamd_name,"Aguadilla, Isabela - PR",90,58,64.44444444444444
+msamd_name,Akron - OH,6233,3914,62.79480186106209
+msamd_name,Albany - GA,134,72,53.73134328358209
+msamd_name,Albany - OR,268,165,61.56716417910447
+msamd_name,"Albany, Schenectady, Troy - NY",29,23,79.3103448275862
+msamd_name,Albuquerque - NM,1731,1010,58.347775852108605
+msamd_name,Alexandria - LA,366,231,63.114754098360656
+msamd_name,"Allentown, Bethlehem, Easton - PA, NJ",380,237,62.36842105263158
+msamd_name,Altoona - PA,155,110,70.96774193548387
+msamd_name,Amarillo - TX,367,266,72.47956403269755
+msamd_name,Ames - IA,143,108,75.52447552447552
+msamd_name,"Anaheim, Santa Ana, Irvine - CA",4908,3328,67.80766096169519
+msamd_name,Anchorage - AK,10419,7195,69.05653133698053
+msamd_name,Ann Arbor - MI,540,392,72.5925925925926
+msamd_name,"Anniston, Oxford, Jacksonville - AL",199,120,60.30150753768844
+msamd_name,Appleton - WI,435,345,79.3103448275862
+msamd_name,Arecibo - PR,144,75,52.083333333333336
+msamd_name,Asheville - NC,1352,853,63.091715976331365
+msamd_name,"Athens, Clarke County - GA",30,11,36.666666666666664
+msamd_name,"Atlanta, Sandy Springs, Roswell - GA",34791,21467,61.70273921416458
+msamd_name,"Atlantic City, Hammonton - NJ",115,48,41.73913043478261
+msamd_name,"Auburn, Opelika - AL",277,184,66.4259927797834
+msamd_name,"Augusta, Richmond County - GA, SC",13211,7982,60.419347513435774
+msamd_name,"Austin, Round Rock - TX",28898,18784,65.00103813412693
+msamd_name,Bakersfield - CA,1569,944,60.165710643722115
+msamd_name,"Baltimore, Columbia, Towson - MD",56277,34056,60.51495282264513
+msamd_name,Bangor - ME,190,121,63.68421052631579
+msamd_name,Barnstable Town - MA,693,503,72.58297258297259
+msamd_name,Baton Rouge - LA,1580,997,63.10126582278481
+msamd_name,Battle Creek - MI,91,46,50.54945054945055
+msamd_name,Bay City - MI,140,82,58.57142857142858
+msamd_name,"Beaumont, Port Arthur - TX",6438,3901,60.59335197266231
+msamd_name,Beckley - WV,158,98,62.0253164556962
+msamd_name,Bellingham - WA,238,152,63.86554621848739
+msamd_name,"Bend, Redmond - OR",581,408,70.22375215146299
+msamd_name,Billings - MT,4006,2938,73.33999001497753
+msamd_name,Binghamton - NY,4,2,50.0
+msamd_name,"Birmingham, Hoover - AL",2132,1217,57.082551594746725
+msamd_name,Bismarck - ND,272,224,82.35294117647058
+msamd_name,"Blacksburg, Christiansburg, Radford - VA",252,176,69.84126984126983
+msamd_name,Bloomington - IL,920,719,78.15217391304347
+msamd_name,Bloomington - IN,35,15,42.857142857142854
+msamd_name,"Bloomsburg, Berwick - PA",179,117,65.36312849162012
+msamd_name,Boise City - ID,524,328,62.59541984732825
+msamd_name,Boston - MA,3726,2475,66.42512077294685
+msamd_name,Boulder - CO,67,30,44.776119402985074
+msamd_name,Bowling Green - KY,3032,2051,67.64511873350924
+msamd_name,"Bremerton, Silverdale - WA",537,361,67.22532588454376
+msamd_name,"Bridgeport, Stamford, Norwalk - CT",19525,12023,61.57746478873239
+msamd_name,"Brownsville, Harlingen - TX",4957,2449,49.40488198507161
+msamd_name,Brunswick - GA,2622,1550,59.115179252479024
+msamd_name,"Buffalo, Cheektowaga, Niagara Falls - NY",392,250,63.775510204081634
+msamd_name,Burlington - NC,299,174,58.19397993311036
+msamd_name,"Burlington, South Burlington - VT",393,280,71.2468193384224
+msamd_name,"California, Lexington Park - MD",2038,1284,63.00294406280668
+msamd_name,"Cambridge, Newton, Framingham - MA",4482,3289,73.38241856314144
+msamd_name,Camden - NJ,1488,817,54.905913978494624
+msamd_name,"Canton, Massillon - OH",1852,1216,65.65874730021598
+msamd_name,"Cape Coral, Fort Myers - FL",1505,928,61.66112956810631
+msamd_name,"Cape Girardeau - MO, IL",24,11,45.83333333333333
+msamd_name,"Carbondale, Marion - IL",473,313,66.17336152219873
+msamd_name,Carson City - NV,620,426,68.70967741935485
+msamd_name,Casper - WY,499,366,73.34669338677354
+msamd_name,Cedar Rapids - IA,612,472,77.12418300653596
+msamd_name,"Chambersburg, Waynesboro - PA",337,243,72.10682492581603
+msamd_name,"Champaign, Urbana - IL",1225,912,74.44897959183675
+msamd_name,Charleston - WV,334,190,56.886227544910184
+msamd_name,"Charleston, North Charleston - SC",21631,13614,62.9374508806805
+msamd_name,"Charlotte, Concord, Gastonia - NC, SC",11925,7836,65.71069182389937
+msamd_name,Charlottesville - VA,284,200,70.4225352112676
+msamd_name,"Chattanooga - TN, GA",3711,2143,57.747237941255726
+msamd_name,Cheyenne - WY,687,508,73.94468704512373
+msamd_name,"Chicago, Naperville, Arlington Heights - IL",12123,8127,67.03786191536749
+msamd_name,Chico - CA,393,233,59.28753180661578
+msamd_name,"Cincinnati - OH, KY, IN",16087,10277,63.88388139491516
+msamd_name,"Clarksville - TN, KY",1334,877,65.74212893553224
+msamd_name,Cleveland - TN,224,135,60.26785714285714
+msamd_name,"Cleveland, Elyria - OH",3474,2292,65.97582037996546
+msamd_name,Coeur D'Alene - ID,41,24,58.536585365853654
+msamd_name,"College Station, Bryan - TX",4695,3103,66.0915867944622
+msamd_name,Colorado Springs - CO,684,442,64.61988304093568
+msamd_name,Columbia - MO,23,12,52.17391304347826
+msamd_name,Columbia - SC,11445,6886,60.16601135867191
+msamd_name,"Columbus - GA, AL",3940,2191,55.609137055837564
+msamd_name,Columbus - IN,124,89,71.7741935483871
+msamd_name,Columbus - OH,4413,2803,63.51688193972355
+msamd_name,Corpus Christi - TX,8625,5111,59.25797101449275
+msamd_name,Corvallis - OR,114,76,66.66666666666666
+msamd_name,"Crestview, Fort Walton Beach, Destin - FL",606,375,61.88118811881188
+msamd_name,"Cumberland - MD, WV",860,558,64.88372093023256
+msamd_name,"Dallas, Plano, Irving - TX",32559,20848,64.03145059737707
+msamd_name,Dalton - GA,2017,1076,53.346554288547345
+msamd_name,Danville - IL,100,68,68.0
+msamd_name,"Daphne, Fairhope, Foley - AL",562,361,64.23487544483986
+msamd_name,"Davenport, Moline, Rock Island - IA, IL",836,618,73.92344497607655
+msamd_name,Dayton - OH,817,487,59.60832313341493
+msamd_name,Decatur - AL,374,222,59.35828877005348
+msamd_name,Decatur - IL,260,198,76.15384615384615
+msamd_name,"Deltona, Daytona Beach, Ormond Beach - FL",1438,898,62.447844228094574
+msamd_name,"Denver, Aurora, Lakewood - CO",5218,3664,70.21847451130702
+msamd_name,"Des Moines, West Des Moines - IA",683,516,75.54904831625183
+msamd_name,"Detroit, Dearborn, Livonia - MI",2385,1588,66.58280922431867
+msamd_name,Dothan - AL,265,171,64.52830188679245
+msamd_name,Dover - DE,919,525,57.12731229597389
+msamd_name,Dubuque - IA,66,49,74.24242424242425
+msamd_name,"Duluth - MN, WI",516,360,69.76744186046511
+msamd_name,"Durham, Chapel Hill - NC",1103,795,72.07615593834996
+msamd_name,"Dutchess County, Putnam County - NY",375,209,55.733333333333334
+msamd_name,East Stroudsburg - PA,303,149,49.17491749174918
+msamd_name,Eau Claire - WI,269,178,66.17100371747212
+msamd_name,El Centro - CA,34,14,41.17647058823529
+msamd_name,El Paso - TX,1226,769,62.72430668841762
+msamd_name,Elgin - IL,1499,1033,68.91260840560373
+msamd_name,"Elizabethtown, Fort Knox - KY",2757,1693,61.40732680449764
+msamd_name,"Elkhart, Goshen - IN",425,294,69.17647058823529
+msamd_name,Elmira - NY,155,109,70.3225806451613
+msamd_name,Erie - PA,287,219,76.30662020905923
+msamd_name,Eugene - OR,596,362,60.738255033557046
+msamd_name,"Evansville - IN, KY",1217,793,65.16023007395233
+msamd_name,Fairbanks - AK,1972,1303,66.07505070993915
+msamd_name,"Fargo - ND, MN",523,420,80.30592734225621
+msamd_name,Farmington - NM,166,95,57.22891566265061
+msamd_name,Fayetteville - NC,502,324,64.5418326693227
+msamd_name,"Fayetteville, Springdale, Rogers - AR, MO",804,576,71.64179104477611
+msamd_name,Flagstaff - AZ,3395,2091,61.59057437407953
+msamd_name,Flint - MI,1087,717,65.96136154553818
+msamd_name,Florence - SC,1642,941,57.308160779537154
+msamd_name,"Florence, Muscle Shoals - AL",284,196,69.01408450704226
+msamd_name,Fond du Lac - WI,206,150,72.81553398058253
+msamd_name,Fort Collins - CO,800,567,70.875
+msamd_name,"Fort Lauderdale, Pompano Beach, Deerfield Beach - FL",2838,1669,58.80902043692742
+msamd_name,"Fort Smith - AR, OK",330,217,65.75757575757576
+msamd_name,Fort Wayne - IN,497,355,71.42857142857143
+msamd_name,"Fort Worth, Arlington - TX",4389,2886,65.7552973342447
+msamd_name,Fresno - CA,750,472,62.93333333333333
+msamd_name,Gadsden - AL,214,126,58.87850467289719
+msamd_name,Gainesville - FL,403,236,58.56079404466501
+msamd_name,Gainesville - GA,3516,2074,58.98748577929466
+msamd_name,Gary - IN,896,568,63.39285714285714
+msamd_name,Gettysburg - PA,90,56,62.22222222222222
+msamd_name,Glens Falls - NY,177,123,69.49152542372882
+msamd_name,Goldsboro - NC,137,84,61.31386861313869
+msamd_name,"Grand Forks - ND, MN",216,173,80.0925925925926
+msamd_name,Grand Island - NE,1962,1362,69.41896024464832
+msamd_name,Grand Junction - CO,321,218,67.91277258566979
+msamd_name,"Grand Rapids, Wyoming - MI",1314,918,69.86301369863014
+msamd_name,Grants Pass - OR,144,91,63.19444444444444
+msamd_name,Great Falls - MT,2136,1512,70.78651685393258
+msamd_name,Greeley - CO,789,533,67.55386565272497
+msamd_name,Green Bay - WI,7587,5493,72.40015816528272
+msamd_name,"Greensboro, High Point - NC",980,629,64.18367346938776
+msamd_name,Greenville - NC,241,151,62.655601659751035
+msamd_name,"Greenville, Anderson, Mauldin - SC",4634,3042,65.64523090202849
+msamd_name,Guayama - PR,37,20,54.054054054054056
+msamd_name,"Gulfport, Biloxi, Pascagoula - MS",592,364,61.48648648648649
+msamd_name,"Hagerstown, Martinsburg - MD, WV",2353,1440,61.19847003824904
+msamd_name,Hammond - LA,207,112,54.106280193236714
+msamd_name,"Hanford, Corcoran - CA",36,23,63.888888888888886
+msamd_name,"Harrisburg, Carlisle - PA",710,462,65.07042253521126
+msamd_name,Harrisonburg - VA,150,109,72.66666666666667
+msamd_name,"Hartford, West Hartford, East Hartford - CT",19308,12396,64.2013673088875
+msamd_name,Hattiesburg - MS,181,99,54.69613259668509
+msamd_name,"Hickory, Lenoir, Morganton - NC",549,355,64.66302367941712
+msamd_name,"Hilton Head Island, Bluffton, Beaufort - SC",1326,846,63.80090497737556
+msamd_name,Hinesville - GA,1263,743,58.82818685669042
+msamd_name,Homosassa Springs - FL,331,182,54.98489425981873
+msamd_name,Hot Springs - AR,269,153,56.877323420074354
+msamd_name,"Houma, Thibodaux - LA",421,279,66.270783847981
+msamd_name,"Houston, The Woodlands, Sugar Land - TX",8946,5867,65.58238318801699
+msamd_name,"Huntington, Ashland - WV, KY, OH",1730,1034,59.76878612716763
+msamd_name,Huntsville - AL,928,605,65.19396551724138
+msamd_name,Idaho Falls - ID,32,15,46.875
+msamd_name,"Indianapolis, Carmel, Anderson - IN",3592,2426,67.53897550111358
+msamd_name,Iowa City - IA,383,295,77.02349869451697
+msamd_name,Ithaca - NY,78,69,88.46153846153845
+msamd_name,Jackson - MI,367,245,66.7574931880109
+msamd_name,Jackson - MS,884,642,72.62443438914026
+msamd_name,Jackson - TN,213,148,69.48356807511738
+msamd_name,Jacksonville - FL,2789,1754,62.88992470419505
+msamd_name,Jacksonville - NC,130,62,47.69230769230769
+msamd_name,"Janesville, Beloit - WI",4397,2982,67.8189674778258
+msamd_name,Jefferson City - MO,21,14,66.66666666666666
+msamd_name,Johnson City - TN,269,155,57.62081784386617
+msamd_name,Johnstown - PA,79,61,77.21518987341773
+msamd_name,Jonesboro - AR,378,282,74.60317460317461
+msamd_name,Joplin - MO,151,87,57.615894039735096
+msamd_name,"Kahului, Wailuku, Lahaina - HI",186,121,65.05376344086021
+msamd_name,"Kalamazoo, Portage - MI",224,148,66.07142857142857
+msamd_name,Kankakee - IL,116,72,62.06896551724138
+msamd_name,"Kansas City - MO, KS",9583,6392,66.70145048523428
+msamd_name,"Kennewick, Richland - WA",495,331,66.86868686868686
+msamd_name,"Killeen, Temple - TX",443,252,56.884875846501124
+msamd_name,"Kingsport, Bristol, Bristol - TN, VA",414,242,58.454106280193244
+msamd_name,Kingston - NY,228,143,62.71929824561403
+msamd_name,Knoxville - TN,1149,722,62.83724978241949
+msamd_name,Kokomo - IN,156,102,65.38461538461539
+msamd_name,"La Crosse, Onalaska - WI, MN",3204,2270,70.8489388264669
+msamd_name,Lafayette - LA,939,601,64.00425985090521
+msamd_name,"Lafayette, West Lafayette - IN",228,160,70.17543859649122
+msamd_name,Lake Charles - LA,324,219,67.5925925925926
+msamd_name,"Lake County, Kenosha County - IL, WI",4411,2999,67.98911811380638
+msamd_name,"Lake Havasu City, Kingman - AZ",5805,3539,60.9646856158484
+msamd_name,"Lakeland, Winter Haven - FL",1054,620,58.82352941176471
+msamd_name,Lancaster - PA,671,458,68.25633383010432
+msamd_name,"Lansing, East Lansing - MI",523,353,67.49521988527725
+msamd_name,Laredo - TX,204,117,57.35294117647059
+msamd_name,Las Cruces - NM,289,199,68.85813148788927
+msamd_name,"Las Vegas, Henderson, Paradise - NV",15306,9751,63.707042989677255
+msamd_name,Lawrence - KS,2534,1818,71.74427782162589
+msamd_name,Lawton - OK,225,157,69.77777777777779
+msamd_name,Lebanon - PA,179,108,60.33519553072626
+msamd_name,"Lewiston - ID, WA",62,28,45.16129032258064
+msamd_name,"Lewiston, Auburn - ME",88,57,64.77272727272727
+msamd_name,"Lexington, Fayette - KY",7930,5328,67.18789407313997
+msamd_name,Lima - OH,85,59,69.41176470588235
+msamd_name,Lincoln - NE,8246,6202,75.21222410865875
+msamd_name,"Little Rock, North Little Rock, Conway - AR",1416,948,66.94915254237289
+msamd_name,"Logan - UT, ID",19,12,63.1578947368421
+msamd_name,Longview - TX,197,128,64.9746192893401
+msamd_name,Longview - WA,224,151,67.41071428571429
+msamd_name,"Los Angeles, Long Beach, Glendale - CA",7379,4659,63.13863667163573
+msamd_name,"Louisville, Jefferson County - KY, IN",7880,5207,66.07868020304568
+msamd_name,Lubbock - TX,278,216,77.6978417266187
+msamd_name,Lynchburg - VA,424,268,63.20754716981132
+msamd_name,Macon - GA,3019,1570,52.00397482610136
+msamd_name,Madera - CA,28,16,57.14285714285714
+msamd_name,Madison - WI,17936,12849,71.63804638715433
+msamd_name,"Manchester, Nashua - NH",692,450,65.02890173410405
+msamd_name,Manhattan - KS,1941,1481,76.30087583719732
+msamd_name,"Mankato, North Mankato - MN",105,83,79.04761904761905
+msamd_name,Mansfield - OH,162,94,58.0246913580247
+msamd_name,Mayaguez - PR,50,29,57.99999999999999
+msamd_name,"McAllen, Edinburg, Mission - TX",594,313,52.69360269360269
+msamd_name,Medford - OR,897,577,64.32552954292085
+msamd_name,"Memphis - TN, MS, AR",2029,1276,62.888122227698375
+msamd_name,Merced - CA,52,29,55.769230769230774
+msamd_name,"Miami, Miami Beach, Kendall - FL",2363,1178,49.85188319932289
+msamd_name,"Michigan City, La Porte - IN",288,168,58.333333333333336
+msamd_name,Midland - MI,174,121,69.54022988505747
+msamd_name,Midland - TX,343,234,68.22157434402332
+msamd_name,"Milwaukee, Waukesha, West Allis - WI",31327,21626,69.03310243559868
+msamd_name,"Minneapolis, St. Paul, Bloomington - MN, WI",24369,16951,69.55968648693012
+msamd_name,Missoula - MT,2062,1474,71.48399612027157
+msamd_name,Mobile - AL,763,434,56.88073394495413
+msamd_name,Modesto - CA,512,365,71.2890625
+msamd_name,Monroe - LA,286,190,66.43356643356644
+msamd_name,Monroe - MI,103,63,61.165048543689316
+msamd_name,Montgomery - AL,764,454,59.424083769633505
+msamd_name,"Montgomery County, Bucks County, Chester County - PA",2592,1724,66.51234567901234
+msamd_name,Morgantown - WV,197,117,59.390862944162436
+msamd_name,Morristown - TN,225,133,59.111111111111114
+msamd_name,"Mount Vernon, Anacortes - WA",24,19,79.16666666666666
+msamd_name,Muncie - IN,185,111,60.0
+msamd_name,Muskegon - MI,70,40,57.14285714285714
+msamd_name,"Myrtle Beach, Conway, North Myrtle Beach - SC, NC",2453,1542,62.861801875254784
+msamd_name,Napa - CA,298,189,63.42281879194631
+msamd_name,"Naples, Immokalee, Marco Island - FL",500,310,62.0
+msamd_name,"Nashville-Davidson, Murfreesboro, Franklin - TN",2015,1422,70.57071960297768
+msamd_name,"Nassau County, Suffolk County - NY",1833,1185,64.6481178396072
+msamd_name,New Bern - NC,349,195,55.873925501432666
+msamd_name,"New Haven, Milford - CT",9085,5459,60.08805723720418
+msamd_name,"New Orleans, Metairie - LA",2310,1352,58.52813852813853
+msamd_name,"New York, Jersey City, White Plains - NY, NJ",63407,35057,55.28884823442207
+msamd_name,"Newark - NJ, PA",2069,1148,55.4857419043016
+msamd_name,"Niles, Benton Harbor - MI",50,30,60.0
+msamd_name,"North Port, Sarasota, Bradenton - FL",902,597,66.18625277161863
+msamd_name,"Norwich, New London - CT",1756,1148,65.37585421412301
+msamd_name,"Oakland, Hayward, Berkeley - CA",3618,2580,71.31011608623548
+msamd_name,Ocala - FL,87,53,60.91954022988506
+msamd_name,Ocean City - NJ,345,233,67.53623188405797
+msamd_name,Odessa - TX,270,182,67.4074074074074
+msamd_name,"Ogden, Clearfield - UT",719,472,65.64673157162726
+msamd_name,Oklahoma City - OK,1251,800,63.94884092725819
+msamd_name,"Olympia, Tumwater - WA",210,134,63.8095238095238
+msamd_name,"Omaha, Council Bluffs - NE, IA",16636,12141,72.98028372204857
+msamd_name,"Orlando, Kissimmee, Sanford - FL",2934,1885,64.24676209952284
+msamd_name,"Oshkosh, Neenah - WI",3147,2236,71.05179536066095
+msamd_name,Owensboro - KY,550,348,63.272727272727266
+msamd_name,"Oxnard, Thousand Oaks, Ventura - CA",9511,6365,66.92251077699505
+msamd_name,"Palm Bay, Melbourne, Titusville - FL",1059,627,59.20679886685553
+msamd_name,Panama City - FL,421,252,59.857482185273156
+msamd_name,"Parkersburg, Vienna - WV",91,60,65.93406593406593
+msamd_name,"Pensacola, Ferry Pass, Brent - FL",614,355,57.817589576547235
+msamd_name,Peoria - IL,355,278,78.30985915492957
+msamd_name,Philadelphia - PA,1562,868,55.56978233034571
+msamd_name,"Phoenix, Mesa, Scottsdale - AZ",55190,34724,62.91719514404783
+msamd_name,Pine Bluff - AR,82,52,63.41463414634146
+msamd_name,Pittsburgh - PA,2191,1485,67.77727065267001
+msamd_name,Pittsfield - MA,26,15,57.692307692307686
+msamd_name,Pocatello - ID,12,6,50.0
+msamd_name,Ponce - PR,188,105,55.85106382978723
+msamd_name,Port St. Lucie - FL,745,446,59.86577181208054
+msamd_name,"Portland, South Portland - ME",1047,698,66.66666666666666
+msamd_name,"Portland, Vancouver, Hillsboro - OR, WA",4451,3154,70.86048079083352
+msamd_name,Prescott - AZ,516,334,64.72868217054264
+msamd_name,"Providence, Warwick - RI, MA",23549,15283,64.89872181408977
+msamd_name,"Provo, Orem - UT",712,481,67.5561797752809
+msamd_name,Pueblo - CO,326,214,65.6441717791411
+msamd_name,Punta Gorda - FL,296,182,61.48648648648649
+msamd_name,Racine - WI,3051,2118,69.41986234021633
+msamd_name,Raleigh - NC,2827,1906,67.42129465864875
+msamd_name,Rapid City - SD,23,15,65.21739130434783
+msamd_name,Reading - PA,647,392,60.58732612055642
+msamd_name,Redding - CA,4498,2725,60.582481102712315
+msamd_name,Reno - NV,1294,887,68.54714064914992
+msamd_name,Richmond - VA,2165,1432,66.14318706697459
+msamd_name,"Riverside, San Bernardino, Ontario - CA",67812,40385,59.554356161151425
+msamd_name,Roanoke - VA,616,404,65.5844155844156
+msamd_name,Rochester - MN,6293,4473,71.0789766407119
+msamd_name,Rochester - NY,13731,9735,70.89796810137645
+msamd_name,Rockford - IL,80,39,48.75
+msamd_name,"Rockingham County, Strafford County - NH",224,127,56.69642857142857
+msamd_name,Rocky Mount - NC,150,74,49.333333333333336
+msamd_name,Rome - GA,1199,690,57.54795663052544
+msamd_name,"Sacramento, Roseville, Arden-Arcade - CA",5036,3507,69.63860206513107
+msamd_name,Saginaw - MI,161,93,57.7639751552795
+msamd_name,Salem - OR,997,646,64.79438314944834
+msamd_name,Salinas - CA,492,343,69.71544715447155
+msamd_name,"Salisbury - MD, DE",4603,2806,60.96024331957419
+msamd_name,Salt Lake City - UT,1752,1207,68.89269406392694
+msamd_name,San Angelo - TX,51,38,74.50980392156863
+msamd_name,"San Antonio, New Braunfels - TX",3406,2076,60.95126247798004
+msamd_name,"San Diego, Carlsbad - CA",5970,4005,67.08542713567839
+msamd_name,"San Francisco, Redwood City, South San Francisco - CA",1539,1134,73.68421052631578
+msamd_name,San German - PR,62,34,54.83870967741935
+msamd_name,"San Jose, Sunnyvale, Santa Clara - CA",1701,1232,72.42798353909465
+msamd_name,"San Juan, Carolina, Caguas - PR",26302,14655,55.71819633487948
+msamd_name,"San Luis Obispo, Paso Robles, Arroyo Grande - CA",106,71,66.98113207547169
+msamd_name,San Rafael - CA,50,31,62.0
+msamd_name,"Santa Cruz, Watsonville - CA",208,139,66.82692307692307
+msamd_name,Santa Fe - NM,342,187,54.67836257309941
+msamd_name,"Santa Maria, Santa Barbara - CA",657,456,69.40639269406392
+msamd_name,Santa Rosa - CA,592,394,66.55405405405406
+msamd_name,Savannah - GA,6163,3785,61.41489534317702
+msamd_name,"Scranton, Wilkes-Barre, Hazleton - PA",701,448,63.90870185449358
+msamd_name,"Seattle, Bellevue, Everett - WA",3443,2357,68.45774034272438
+msamd_name,"Sebastian, Vero Beach - FL",253,156,61.6600790513834
+msamd_name,Sebring - FL,201,120,59.70149253731343
+msamd_name,Sheboygan - WI,1703,1173,68.87844979448033
+msamd_name,"Sherman, Denison - TX",40,13,32.5
+msamd_name,"Shreveport, Bossier City - LA",693,450,64.93506493506493
+msamd_name,"Sierra Vista, Douglas - AZ",211,117,55.45023696682464
+msamd_name,"Silver Spring, Frederick, Rockville - MD",9826,6352,64.64481986566253
+msamd_name,"Sioux City - IA, NE, SD",588,393,66.83673469387756
+msamd_name,Sioux Falls - SD,320,244,76.25
+msamd_name,"South Bend, Mishawaka - IN, MI",551,352,63.883847549909255
+msamd_name,Spartanburg - SC,1284,765,59.57943925233645
+msamd_name,"Spokane, Spokane Valley - WA",715,509,71.18881118881119
+msamd_name,Springfield - IL,199,135,67.8391959798995
+msamd_name,Springfield - MA,860,560,65.11627906976744
+msamd_name,Springfield - MO,9847,6816,69.21905148776277
+msamd_name,Springfield - OH,178,119,66.85393258426966
+msamd_name,St. Cloud - MN,4449,3263,73.34232411777928
+msamd_name,St. George - UT,103,82,79.6116504854369
+msamd_name,"St. Joseph - MO, KS",226,135,59.73451327433629
+msamd_name,"St. Louis - MO, IL",4582,3081,67.24137931034483
+msamd_name,State College - PA,187,144,77.00534759358288
+msamd_name,"Staunton, Waynesboro - VA",195,132,67.6923076923077
+msamd_name,"Stockton, Lodi - CA",859,567,66.0069848661234
+msamd_name,Sumter - SC,111,66,59.45945945945946
+msamd_name,Syracuse - NY,3022,2250,74.45400397088021
+msamd_name,"Tacoma, Lakewood - WA",1105,711,64.34389140271493
+msamd_name,Tallahassee - FL,653,335,51.301684532924966
+msamd_name,"Tampa, St. Petersburg, Clearwater - FL",3008,1679,55.81781914893617
+msamd_name,Terre Haute - IN,20,9,45.0
+msamd_name,"Texarkana - TX, AR",78,57,73.07692307692307
+msamd_name,The Villages - FL,205,138,67.31707317073172
+msamd_name,Toledo - OH,1054,699,66.31878557874764
+msamd_name,Topeka - KS,5511,3791,68.78969334059154
+msamd_name,Trenton - NJ,465,272,58.49462365591398
+msamd_name,Tucson - AZ,2085,1388,66.57074340527578
+msamd_name,Tulsa - OK,685,404,58.978102189781026
+msamd_name,Tuscaloosa - AL,350,216,61.71428571428571
+msamd_name,Tyler - TX,62,23,37.096774193548384
+msamd_name,Urban Honolulu - HI,1114,822,73.78815080789947
+msamd_name,"Utica, Rome - NY",1146,824,71.9022687609075
+msamd_name,Valdosta - GA,1611,1089,67.59776536312849
+msamd_name,"Vallejo, Fairfield - CA",863,563,65.23754345307069
+msamd_name,Victoria - TX,7,1,14.285714285714285
+msamd_name,"Vineland, Bridgeton - NJ",205,121,59.02439024390244
+msamd_name,"Virginia Beach, Norfolk, Newport News - VA, NC",2772,1857,66.991341991342
+msamd_name,"Visalia, Porterville - CA",300,161,53.666666666666664
+msamd_name,Waco - TX,51,21,41.17647058823529
+msamd_name,Walla Walla - WA,65,39,60.0
+msamd_name,Warner Robins - GA,2366,1549,65.46914623837701
+msamd_name,"Warren, Troy, Farmington Hills - MI",3842,2534,65.9552316501822
+msamd_name,"Washington, Arlington, Alexandria - DC, VA, MD, WV",9741,5863,60.18889231085104
+msamd_name,"Waterloo, Cedar Falls - IA",399,301,75.43859649122807
+msamd_name,"Watertown, Fort Drum - NY",523,353,67.49521988527725
+msamd_name,Wausau - WI,2011,1441,71.65589259075087
+msamd_name,"Weirton, Steubenville - WV, OH",195,124,63.589743589743584
+msamd_name,Wenatchee - WA,182,120,65.93406593406593
+msamd_name,"West Palm Beach, Boca Raton, Delray Beach - FL",1819,1089,59.86805937328202
+msamd_name,"Wheeling - WV, OH",245,162,66.12244897959184
+msamd_name,Wichita - KS,15552,10774,69.2772633744856
+msamd_name,Wichita Falls - TX,12,5,41.66666666666667
+msamd_name,Williamsport - PA,172,120,69.76744186046511
+msamd_name,"Wilmington - DE, MD, NJ",2617,1681,64.2338555598013
+msamd_name,Wilmington - NC,192,123,64.0625
+msamd_name,"Winchester - VA, WV",269,173,64.31226765799256
+msamd_name,"Winston, Salem - NC",605,357,59.008264462809926
+msamd_name,"Worcester - MA, CT",2318,1518,65.48748921484038
+msamd_name,Yakima - WA,328,192,58.536585365853654
+msamd_name,"York, Hanover - PA",511,324,63.405088062622305
+msamd_name,"Youngstown, Warren, Boardman - OH, PA",847,557,65.76151121605666
+msamd_name,Yuba City - CA,178,111,62.35955056179775
+msamd_name,Yuma - AZ,392,257,65.56122448979592
+state_name,Alabama,7214,4362,60.46576102023843
+state_name,Alaska,12391,8498,68.58203534823663
+state_name,Arizona,67594,42450,62.80143207977039
+state_name,Arkansas,3267,2227,68.16651362105908
+state_name,California,119949,75041,62.56075498753637
+state_name,Colorado,8205,5668,69.07982937233395
+state_name,Connecticut,50266,31387,62.44180957307126
+state_name,Delaware,4880,3025,61.98770491803278
+state_name,District of Columbia,1731,1066,61.582900057770075
+state_name,Florida,27024,16064,59.443457667258734
+state_name,Georgia,74982,45278,60.38515910485182
+state_name,Hawaii,1300,943,72.53846153846155
+state_name,Idaho,618,378,61.165048543689316
+state_name,Illinois,19065,13100,68.71230002622607
+state_name,Indiana,8059,5391,66.89415560243206
+state_name,Iowa,3141,2351,74.84877427570838
+state_name,Kansas,33720,23305,69.11328588374852
+state_name,Kentucky,34358,22221,64.6748937656441
+state_name,Louisiana,7126,4431,62.180746561886046
+state_name,Maine,1325,876,66.11320754716982
+state_name,Maryland,78428,47709,60.83159075840261
+state_name,Massachusetts,12637,8743,69.18572445991929
+state_name,Michigan,11201,7437,66.39585751272207
+state_name,Minnesota,33265,23505,70.65985269803096
+state_name,Mississippi,2226,1489,66.89128481581311
+state_name,Missouri,15553,10593,68.10904648620844
+state_name,Montana,8204,5924,72.20867869332032
+state_name,Nebraska,26966,19778,73.34421122895498
+state_name,Nevada,17220,11064,64.25087108013938
+state_name,New Hampshire,916,577,62.99126637554585
+state_name,New Jersey,9457,5552,58.707835465792535
+state_name,New Mexico,2528,1491,58.97943037974683
+state_name,New York,80250,47394,59.057943925233644
+state_name,North Carolina,13425,8761,65.25884543761639
+state_name,North Dakota,801,659,82.27215980024968
+state_name,Ohio,25624,16510,64.43178270371527
+state_name,Oklahoma,2295,1446,63.006535947712415
+state_name,Oregon,7133,4855,68.0639282209449
+state_name,Pennsylvania,12197,7867,64.49946708206936
+state_name,Puerto Rico,26873,14976,55.72879842220816
+state_name,Rhode Island,22425,14539,64.83389074693423
+state_name,South Carolina,56488,35229,62.36545815040363
+state_name,South Dakota,346,260,75.14450867052022
+state_name,Tennessee,6708,4366,65.08646392367322
+state_name,Texas,107280,67771,63.172073079791204
+state_name,Utah,3303,2252,68.18044202240388
+state_name,Vermont,393,280,71.2468193384224
+state_name,Virginia,10823,7195,66.47879515845884
+state_name,Washington,8536,5725,67.06888472352391
+state_name,West Virginia,1652,994,60.16949152542372
+state_name,Wisconsin,81815,57279,70.01038929291694
+state_name,Wyoming,1186,874,73.69308600337267
+county_name,Acadia Parish,106,68,64.15094339622641
+county_name,Ada County,350,223,63.714285714285715
+county_name,Adams County,931,642,68.95810955961332
+county_name,Aguada Municipio,18,9,50.0
+county_name,Aguadilla Municipio,17,12,70.58823529411765
+county_name,Aguas Buenas Municipio,320,166,51.87500000000001
+county_name,Aibonito Municipio,235,147,62.5531914893617
+county_name,Aiken County,3410,2004,58.7683284457478
+county_name,Alachua County,387,231,59.68992248062015
+county_name,Alamance County,299,174,58.19397993311036
+county_name,Alameda County,1921,1352,70.38001041124414
+county_name,Albany County,9,6,66.66666666666666
+county_name,Albemarle County,137,105,76.64233576642336
+county_name,Alexander County,56,31,55.35714285714286
+county_name,Alexandria city,174,108,62.06896551724138
+county_name,Allegany County,832,545,65.5048076923077
+county_name,Allegheny County,1178,808,68.59083191850594
+county_name,Allen County,942,651,69.10828025477707
+county_name,Amelia County,23,15,65.21739130434783
+county_name,Amherst County,50,32,64.0
+county_name,Anchorage Municipality,7460,5172,69.32975871313673
+county_name,Anderson County,1059,657,62.03966005665722
+county_name,Andrew County,6,3,50.0
+county_name,Androscoggin County,88,57,64.77272727272727
+county_name,Anne Arundel County,13733,8641,62.92143013179932
+county_name,Anoka County,2599,1803,69.37283570604077
+county_name,Appomattox County,10,6,60.0
+county_name,Aransas County,675,410,60.74074074074074
+county_name,Arapahoe County,1174,818,69.6763202725724
+county_name,Archer County,1,0,0.0
+county_name,Arecibo Municipio,66,32,48.484848484848484
+county_name,Arlington County,216,153,70.83333333333334
+county_name,Armstrong County,43,28,65.11627906976744
+county_name,Arroyo Municipio,2,0,0.0
+county_name,Ascension Parish,323,215,66.56346749226006
+county_name,Asotin County,55,25,45.45454545454545
+county_name,Atascosa County,53,25,47.16981132075472
+county_name,Atlantic County,115,48,41.73913043478261
+county_name,Augusta County,109,75,68.80733944954129
+county_name,Austin County,39,24,61.53846153846154
+county_name,Autauga County,141,75,53.191489361702125
+county_name,Ańasco Municipio,4,4,100.0
+county_name,Baker County,48,29,60.416666666666664
+county_name,Baldwin County,562,361,64.23487544483986
+county_name,Baltimore County,15554,9236,59.380223736659374
+county_name,Baltimore city,9191,4886,53.160700685453165
+county_name,Bandera County,40,23,57.49999999999999
+county_name,Bannock County,12,6,50.0
+county_name,Barceloneta Municipio,341,166,48.68035190615836
+county_name,Barnstable County,693,503,72.58297258297259
+county_name,Barranquitas Municipio,205,106,51.707317073170735
+county_name,Barrow County,827,556,67.23095525997581
+county_name,Barry County,71,46,64.7887323943662
+county_name,Bartholomew County,124,89,71.7741935483871
+county_name,Bartow County,821,521,63.45919610231425
+county_name,Bastrop County,821,431,52.496954933008524
+county_name,Bates County,20,13,65.0
+county_name,Bay County,529,311,58.79017013232514
+county_name,Bayamón Municipio,2387,1343,56.263091746962715
+county_name,Beaufort County,1236,806,65.21035598705501
+county_name,Beaver County,122,91,74.59016393442623
+county_name,Bedford County,154,99,64.28571428571429
+county_name,Bedford city,7,4,57.14285714285714
+county_name,Bell County,370,210,56.75675675675676
+county_name,Belmont County,150,99,66.0
+county_name,Benton County,2038,1431,70.21589793915604
+county_name,Bergen County,958,594,62.00417536534447
+county_name,Berkeley County,5954,3694,62.04232448773933
+county_name,Berks County,647,392,60.58732612055642
+county_name,Berkshire County,26,15,57.692307692307686
+county_name,Bernalillo County,1239,740,59.725585149313964
+county_name,Berrien County,50,30,60.0
+county_name,Bexar County,2533,1559,61.54757204895381
+county_name,Bibb County,1851,927,50.08103727714749
+county_name,Black Hawk County,305,226,74.09836065573771
+county_name,Blair County,155,110,70.96774193548387
+county_name,Blount County,274,162,59.12408759124088
+county_name,Blue Earth County,69,54,78.26086956521739
+county_name,Boise County,12,7,58.333333333333336
+county_name,Bond County,11,9,81.81818181818183
+county_name,Bonneville County,27,12,44.44444444444444
+county_name,Boone County,3203,2110,65.87574149235093
+county_name,Bossier Parish,229,164,71.61572052401746
+county_name,Botetourt County,56,41,73.21428571428571
+county_name,Boulder County,67,30,44.776119402985074
+county_name,Bourbon County,282,165,58.51063829787234
+county_name,Bowie County,18,12,66.66666666666666
+county_name,Box Elder County,64,45,70.3125
+county_name,Boyd County,762,462,60.629921259842526
+county_name,Bracken County,190,107,56.315789473684205
+county_name,Bradley County,188,119,63.297872340425535
+county_name,Brantley County,248,147,59.2741935483871
+county_name,Brazoria County,491,304,61.91446028513238
+county_name,Brazos County,4003,2738,68.3987009742693
+county_name,Bremer County,60,49,81.66666666666667
+county_name,Brevard County,1059,627,59.20679886685553
+county_name,Bristol County,2263,1534,67.78612461334512
+county_name,Bristol city,13,5,38.46153846153847
+county_name,Bronx County,3538,1645,46.4951950254381
+county_name,Brooke County,24,11,45.83333333333333
+county_name,Brooks County,202,122,60.396039603960396
+county_name,Broome County,4,2,50.0
+county_name,Broomfield County,113,79,69.91150442477876
+county_name,Broward County,2838,1669,58.80902043692742
+county_name,Brown County,6102,4419,72.4188790560472
+county_name,Brunswick County,272,176,64.70588235294117
+county_name,Bryan County,792,544,68.68686868686868
+county_name,Buchanan County,36,19,52.77777777777778
+county_name,Buckingham County,11,2,18.181818181818183
+county_name,Bucks County,871,582,66.81974741676234
+county_name,Bullitt County,692,446,64.45086705202311
+county_name,Buncombe County,773,496,64.16558861578267
+county_name,Burke County,540,318,58.88888888888889
+county_name,Burleigh County,207,171,82.6086956521739
+county_name,Burleson County,395,196,49.62025316455696
+county_name,Burlington County,512,271,52.9296875
+county_name,Butler County,3806,2535,66.60535995796111
+county_name,Butte County,394,234,59.390862944162436
+county_name,Butts County,144,75,52.083333333333336
+county_name,Cabarrus County,377,253,67.10875331564988
+county_name,Cabell County,115,60,52.17391304347826
+county_name,Cabo Rojo Municipio,31,19,61.29032258064516
+county_name,Cache County,17,10,58.82352941176471
+county_name,Caddo Parish,365,224,61.369863013698634
+county_name,Caguas Municipio,1912,1081,56.537656903765686
+county_name,Calcasieu Parish,312,210,67.3076923076923
+county_name,Caldwell County,452,256,56.63716814159292
+county_name,Calhoun County,426,239,56.10328638497653
+county_name,Callahan County,11,9,81.81818181818183
+county_name,Callaway County,5,3,60.0
+county_name,Calumet County,93,72,77.41935483870968
+county_name,Calvert County,421,268,63.657957244655584
+county_name,Cambria County,79,61,77.21518987341773
+county_name,Camden County,577,322,55.80589254766031
+county_name,Cameron County,4957,2449,49.40488198507161
+county_name,Cameron Parish,12,9,75.0
+county_name,Campbell County,2133,1336,62.6347866854196
+county_name,Camuy Municipio,33,16,48.484848484848484
+county_name,Canadian County,159,96,60.37735849056604
+county_name,Cannon County,15,9,60.0
+county_name,Canyon County,145,87,60.0
+county_name,Canóvanas Municipio,514,271,52.723735408560316
+county_name,Cape Girardeau County,16,8,50.0
+county_name,Cape May County,345,233,67.53623188405797
+county_name,Carbon County,282,187,66.31205673758865
+county_name,Carlton County,73,56,76.71232876712328
+county_name,Carolina Municipio,2144,1206,56.25
+county_name,Caroline County,70,51,72.85714285714285
+county_name,Carroll County,4658,2983,64.04036066981537
+county_name,Carson City,620,426,68.70967741935485
+county_name,Carson County,6,5,83.33333333333334
+county_name,Carter County,76,47,61.8421052631579
+county_name,Carver County,746,518,69.43699731903486
+county_name,Cascade County,2136,1512,70.78651685393258
+county_name,Cass County,1369,964,70.4163623082542
+county_name,Catawba County,242,154,63.63636363636363
+county_name,Catańo Municipio,227,122,53.74449339207048
+county_name,Catoosa County,1508,830,55.03978779840849
+county_name,Cayey Municipio,457,278,60.83150984682714
+county_name,Cecil County,206,135,65.53398058252428
+county_name,Ceiba Municipio,180,102,56.666666666666664
+county_name,Centre County,187,144,77.00534759358288
+county_name,Chambers County,67,38,56.71641791044776
+county_name,Champaign County,996,751,75.40160642570282
+county_name,Charles City County,12,6,50.0
+county_name,Charles County,703,405,57.61024182076814
+county_name,Charleston County,11627,7409,63.722370344886905
+county_name,Charlotte County,296,182,61.48648648648649
+county_name,Charlottesville city,45,32,71.11111111111111
+county_name,Chatham County,4435,2652,59.797068771138676
+county_name,Chattahoochee County,36,15,41.66666666666667
+county_name,Cheatham County,57,37,64.91228070175438
+county_name,Chelan County,119,80,67.22689075630252
+county_name,Chemung County,155,109,70.3225806451613
+county_name,Cherokee County,1777,1162,65.39110861001689
+county_name,Chesapeake city,463,323,69.76241900647948
+county_name,Chester County,1168,673,57.619863013698634
+county_name,Chesterfield County,647,419,64.76043276661515
+county_name,Chilton County,86,46,53.48837209302325
+county_name,Chippewa County,121,70,57.85123966942148
+county_name,Chisago County,416,270,64.90384615384616
+county_name,Chittenden County,283,209,73.85159010600707
+county_name,Christian County,3084,2132,69.13099870298313
+county_name,Ciales Municipio,118,47,39.83050847457627
+county_name,Cidra Municipio,546,299,54.761904761904766
+county_name,Citrus County,331,182,54.98489425981873
+county_name,Clackamas County,832,567,68.14903846153845
+county_name,Clark County,17253,11044,64.01205587434069
+county_name,Clarke County,30,15,50.0
+county_name,Clay County,861,557,64.69221835075494
+county_name,Clayton County,1122,618,55.080213903743314
+county_name,Clear Creek County,23,17,73.91304347826086
+county_name,Clermont County,863,569,65.93279258400926
+county_name,Cleveland County,268,183,68.28358208955224
+county_name,Clinton County,194,149,76.80412371134021
+county_name,Cobb County,4171,2638,63.2462239271158
+county_name,Cochise County,211,117,55.45023696682464
+county_name,Coconino County,3395,2091,61.59057437407953
+county_name,Colbert County,100,65,65.0
+county_name,Cole County,14,9,64.28571428571429
+county_name,Collier County,500,310,62.0
+county_name,Collin County,8909,5898,66.20271635424851
+county_name,Colonial Heights city,29,21,72.41379310344827
+county_name,Columbia County,6668,4583,68.73125374925016
+county_name,Comal County,309,188,60.84142394822006
+county_name,Comanche County,215,153,71.16279069767441
+county_name,Comerío Municipio,129,70,54.263565891472865
+county_name,Contra Costa County,1697,1228,72.3629935179729
+county_name,Cook County,7792,5092,65.34907597535934
+county_name,Copiah County,31,20,64.51612903225806
+county_name,Corozal Municipio,309,159,51.45631067961165
+county_name,Coryell County,54,30,55.55555555555556
+county_name,Cotton County,10,4,40.0
+county_name,Coweta County,1449,972,67.08074534161491
+county_name,Cowlitz County,224,151,67.41071428571429
+county_name,Craig County,11,8,72.72727272727273
+county_name,Craighead County,319,239,74.92163009404389
+county_name,Craven County,284,166,58.45070422535211
+county_name,Crawford County,202,115,56.930693069306926
+county_name,Creek County,44,23,52.27272727272727
+county_name,Crittenden County,65,40,61.53846153846154
+county_name,Crockett County,26,19,73.07692307692307
+county_name,Crosby County,3,3,100.0
+county_name,Culpeper County,72,43,59.72222222222222
+county_name,Cumberland County,1551,1024,66.02192134107028
+county_name,Currituck County,99,73,73.73737373737373
+county_name,Custer County,2,1,50.0
+county_name,Cuyahoga County,1907,1221,64.02726796014683
+county_name,Dade County,344,226,65.69767441860465
+county_name,Dakota County,3160,2251,71.23417721518987
+county_name,Dallas County,13053,7816,59.87895502949514
+county_name,Dane County,14347,10416,72.60054366766572
+county_name,Darlington County,460,255,55.434782608695656
+county_name,Dauphin County,323,197,60.99071207430341
+county_name,Davidson County,881,582,66.06129398410897
+county_name,Davie County,53,33,62.264150943396224
+county_name,Daviess County,483,313,64.80331262939958
+county_name,Davis County,377,253,67.10875331564988
+county_name,Dawson County,157,82,52.22929936305732
+county_name,De Soto Parish,44,28,63.63636363636363
+county_name,De Witt County,57,40,70.17543859649122
+county_name,DeKalb County,3390,1961,57.846607669616525
+county_name,DeSoto County,424,298,70.28301886792453
+county_name,Dearborn County,61,41,67.21311475409836
+county_name,Delaware County,1184,744,62.83783783783784
+county_name,Denton County,7244,4961,68.48426283821092
+county_name,Denver County,1095,757,69.13242009132419
+county_name,Deschutes County,581,408,70.22375215146299
+county_name,Dickson County,82,64,78.04878048780488
+county_name,Dinwiddie County,53,28,52.83018867924528
+county_name,District of Columbia,1731,1066,61.582900057770075
+county_name,Dixon County,51,34,66.66666666666666
+county_name,Dodge County,635,422,66.45669291338582
+county_name,Doniphan County,180,111,61.66666666666667
+county_name,Dorado Municipio,660,377,57.12121212121212
+county_name,Dorchester County,4311,2675,62.050568313616324
+county_name,Dougherty County,76,39,51.31578947368421
+county_name,Douglas County,15110,10763,71.23097286565189
+county_name,Dońa Ana County,289,199,68.85813148788927
+county_name,DuPage County,1851,1303,70.39438141545111
+county_name,Dubuque County,66,49,74.24242424242425
+county_name,Durham County,626,445,71.08626198083067
+county_name,Dutchess County,286,168,58.74125874125874
+county_name,Duval County,1497,911,60.85504342017368
+county_name,East Baton Rouge Parish,769,475,61.76853055916776
+county_name,East Feliciana Parish,19,8,42.10526315789473
+county_name,Eaton County,146,97,66.43835616438356
+county_name,Eau Claire County,148,108,72.97297297297297
+county_name,Echols County,21,9,42.857142857142854
+county_name,Ector County,270,182,67.4074074074074
+county_name,Edgecombe County,45,22,48.888888888888886
+county_name,Edgefield County,520,284,54.61538461538461
+county_name,Edmonson County,268,163,60.820895522388064
+county_name,Effingham County,1086,695,63.996316758747696
+county_name,El Dorado County,552,388,70.28985507246377
+county_name,El Paso County,1878,1191,63.418530351437695
+county_name,Elbert County,73,49,67.12328767123287
+county_name,Elkhart County,425,294,69.17647058823529
+county_name,Ellis County,1243,818,65.80852775543042
+county_name,Elmore County,242,151,62.396694214876035
+county_name,Erie County,613,426,69.49429037520392
+county_name,Escambia County,380,212,55.78947368421052
+county_name,Essex County,2146,1471,68.54613233923578
+county_name,Etowah County,214,126,58.87850467289719
+county_name,Fairbanks North Star Borough,1972,1303,66.07505070993915
+county_name,Fairfax County,1310,859,65.57251908396947
+county_name,Fairfax city,30,15,50.0
+county_name,Fairfield County,20156,12361,61.32665211351459
+county_name,Fajardo Municipio,471,280,59.447983014862
+county_name,Falls Church city,15,12,80.0
+county_name,Falls County,2,0,0.0
+county_name,Faulkner County,244,180,73.77049180327869
+county_name,Fauquier County,106,74,69.81132075471697
+county_name,Fayette County,5846,3948,67.53335614095107
+county_name,Fillmore County,598,374,62.54180602006689
+county_name,Flagler County,316,209,66.13924050632912
+county_name,Florence County,1182,686,58.03722504230119
+county_name,Florida Municipio,132,72,54.54545454545454
+county_name,Floyd County,1385,823,59.42238267148014
+county_name,Fluvanna County,38,25,65.78947368421053
+county_name,Fond du Lac County,206,150,72.81553398058253
+county_name,Ford County,94,55,58.51063829787234
+county_name,Forrest County,79,44,55.69620253164557
+county_name,Forsyth County,2237,1516,67.7693339293697
+county_name,Fort Bend County,1320,907,68.71212121212122
+county_name,Franklin County,3443,2222,64.5367412140575
+county_name,Frederick County,2378,1601,67.32548359966358
+county_name,Fredericksburg city,22,16,72.72727272727273
+county_name,Fresno County,750,472,62.93333333333333
+county_name,Fulton County,5041,3060,60.70224161872644
+county_name,Gadsden County,73,25,34.24657534246575
+county_name,Gallatin County,158,71,44.936708860759495
+county_name,Galveston County,599,408,68.11352253756262
+county_name,Garland County,269,153,56.877323420074354
+county_name,Gaston County,327,210,64.22018348623854
+county_name,Gates County,17,9,52.94117647058824
+county_name,Geauga County,162,109,67.28395061728395
+county_name,Gem County,9,6,66.66666666666666
+county_name,Genesee County,1087,717,65.96136154553818
+county_name,Geneva County,37,22,59.45945945945946
+county_name,Gilchrist County,16,5,31.25
+county_name,Giles County,30,16,53.333333333333336
+county_name,Gilpin County,13,5,38.46153846153847
+county_name,Gloucester County,465,271,58.27956989247311
+county_name,Glynn County,2060,1227,59.56310679611651
+county_name,Golden Valley County,20,15,75.0
+county_name,Goochland County,38,28,73.68421052631578
+county_name,Grady County,49,28,57.14285714285714
+county_name,Grainger County,22,8,36.36363636363637
+county_name,Grand Forks County,134,114,85.07462686567165
+county_name,Grand Isle County,14,7,50.0
+county_name,Grant County,504,274,54.36507936507936
+county_name,Grant Parish,56,30,53.57142857142857
+county_name,Grayson County,40,13,32.5
+county_name,Green County,1184,846,71.4527027027027
+county_name,Greene County,6007,4205,70.0016647244881
+county_name,Greenup County,666,392,58.85885885885885
+county_name,Greenville County,2823,1951,69.11087495572087
+county_name,Gregg County,112,78,69.64285714285714
+county_name,Grundy County,151,120,79.47019867549669
+county_name,Guadalupe County,248,149,60.08064516129033
+county_name,Guayama Municipio,30,16,53.333333333333336
+county_name,Guayanilla Municipio,11,7,63.63636363636363
+county_name,Guaynabo Municipio,1220,731,59.91803278688524
+county_name,Guilford County,644,413,64.13043478260869
+county_name,Gulf County,32,23,71.875
+county_name,Gurabo Municipio,731,440,60.191518467852255
+county_name,Guthrie County,15,14,93.33333333333333
+county_name,Guánica Municipio,9,3,33.33333333333333
+county_name,Gwinnett County,5600,3473,62.017857142857146
+county_name,Hale County,18,7,38.88888888888889
+county_name,Hall County,4847,3013,62.16216216216216
+county_name,Hamblen County,115,71,61.73913043478261
+county_name,Hamilton County,4393,2883,65.62713407694059
+county_name,Hampden County,618,397,64.23948220064725
+county_name,Hampshire County,262,173,66.03053435114504
+county_name,Hampton city,195,121,62.05128205128205
+county_name,Hancock County,341,219,64.22287390029325
+county_name,Hanover County,200,142,71.0
+county_name,Haralson County,131,66,50.38167938931297
+county_name,Hardin County,3178,1932,60.792951541850215
+county_name,Harford County,5360,3313,61.809701492537314
+county_name,Harris County,6185,3978,64.31689571544058
+county_name,Harrison County,399,264,66.16541353383458
+county_name,Harrisonburg city,34,24,70.58823529411765
+county_name,Hartford County,13721,8776,63.960352743969096
+county_name,Harvey County,821,626,76.24847746650426
+county_name,Hatillo Municipio,26,16,61.53846153846154
+county_name,Hawkins County,99,57,57.57575757575758
+county_name,Hays County,3168,2038,64.33080808080808
+county_name,Haywood County,179,117,65.36312849162012
+county_name,Heard County,45,25,55.55555555555556
+county_name,Henderson County,1046,650,62.1414913957935
+county_name,Hendricks County,296,220,74.32432432432432
+county_name,Hennepin County,7066,4973,70.37928106425134
+county_name,Henrico County,558,376,67.38351254480287
+county_name,Henry County,2261,1405,62.14064573197701
+county_name,Herkimer County,237,161,67.9324894514768
+county_name,Hernando County,249,132,53.01204819277109
+county_name,Hickman County,23,17,73.91304347826086
+county_name,Hidalgo County,594,313,52.69360269360269
+county_name,Highlands County,201,120,59.70149253731343
+county_name,Hillsborough County,1991,1183,59.41737820190859
+county_name,Hinds County,295,198,67.11864406779661
+county_name,Hocking County,51,31,60.78431372549019
+county_name,Hoke County,65,44,67.6923076923077
+county_name,Honolulu County,1114,822,73.78815080789947
+county_name,Hood County,125,78,62.4
+county_name,Hopewell city,27,18,66.66666666666666
+county_name,Hormigueros Municipio,9,3,33.33333333333333
+county_name,Horry County,2181,1366,62.63182026593306
+county_name,Houston County,2211,1447,65.44549977385799
+county_name,Howard County,7607,4895,64.34862626528198
+county_name,Hudson County,542,284,52.398523985239855
+county_name,Hudspeth County,2,0,0.0
+county_name,Humacao Municipio,749,434,57.943925233644855
+county_name,Hunt County,581,361,62.1342512908778
+county_name,Hunterdon County,121,69,57.02479338842975
+county_name,Iberia Parish,108,55,50.92592592592593
+county_name,Iberville Parish,58,34,58.620689655172406
+county_name,Imperial County,34,14,41.17647058823529
+county_name,Indian River County,253,156,61.6600790513834
+county_name,Ingham County,269,173,64.31226765799256
+county_name,Iowa County,628,389,61.94267515923567
+county_name,Iredell County,294,199,67.68707482993197
+county_name,Isabela Municipio,12,7,58.333333333333336
+county_name,Isanti County,276,196,71.01449275362319
+county_name,Isle of Wight County,59,41,69.49152542372882
+county_name,Jackson County,2813,1850,65.76608602915037
+county_name,James City County,121,83,68.59504132231406
+county_name,Jasper County,315,170,53.96825396825397
+county_name,Jefferson County,12920,8292,64.17956656346749
+county_name,Jefferson Parish,769,454,59.03771131339401
+county_name,Jersey County,31,20,64.51612903225806
+county_name,Jessamine County,795,534,67.16981132075472
+county_name,Johnson County,7019,4898,69.78202023080212
+county_name,Johnston County,428,280,65.42056074766354
+county_name,Jones County,576,329,57.11805555555556
+county_name,Josephine County,144,91,63.19444444444444
+county_name,Juab County,12,4,33.33333333333333
+county_name,Juana Díaz Municipio,29,22,75.86206896551724
+county_name,Juncos Municipio,532,313,58.83458646616542
+county_name,Kalamazoo County,176,119,67.61363636363636
+county_name,Kanawha County,301,175,58.139534883720934
+county_name,Kane County,1288,893,69.33229813664596
+county_name,Kankakee County,116,72,62.06896551724138
+county_name,Kaufman County,976,609,62.39754098360656
+county_name,Kendall County,402,291,72.38805970149254
+county_name,Kenosha County,3865,2635,68.17593790426908
+county_name,Kent County,5937,3912,65.89186457806974
+county_name,Kenton County,3576,2264,63.31096196868009
+county_name,Kern County,1569,944,60.165710643722115
+county_name,Kershaw County,890,498,55.955056179775276
+county_name,Kewaunee County,388,263,67.78350515463917
+county_name,King County,2436,1666,68.39080459770115
+county_name,King William County,34,25,73.52941176470588
+county_name,Kingman County,184,121,65.76086956521739
+county_name,Kings County,12041,6299,52.31293081969937
+county_name,Kitsap County,537,361,67.22532588454376
+county_name,Knox County,651,425,65.284178187404
+county_name,Kootenai County,41,24,58.536585365853654
+county_name,La Crosse County,3191,2264,70.94954559699154
+county_name,LaPorte County,288,168,58.333333333333336
+county_name,Lackawanna County,303,197,65.01650165016501
+county_name,Lafayette County,54,35,64.81481481481481
+county_name,Lafayette Parish,479,326,68.05845511482255
+county_name,Lafourche Parish,242,167,69.00826446280992
+county_name,Lajas Municipio,7,1,14.285714285714285
+county_name,Lake County,2033,1314,64.63354648303
+county_name,Lamar County,152,82,53.94736842105263
+county_name,Lampasas County,19,12,63.1578947368421
+county_name,Lancaster County,10447,7610,72.84387862544271
+county_name,Lane County,596,362,60.738255033557046
+county_name,Lanier County,124,87,70.16129032258065
+county_name,Lapeer County,144,95,65.97222222222221
+county_name,Laramie County,687,508,73.94468704512373
+county_name,Lares Municipio,3,3,100.0
+county_name,Larimer County,800,567,70.875
+county_name,Larue County,275,177,64.36363636363637
+county_name,Las Piedras Municipio,481,285,59.25155925155925
+county_name,Lauderdale County,184,131,71.19565217391305
+county_name,Laurens County,265,138,52.075471698113205
+county_name,Lawrence County,92,47,51.08695652173913
+county_name,Le Flore County,88,56,63.63636363636363
+county_name,Le Sueur County,184,121,65.76086956521739
+county_name,Leavenworth County,603,359,59.53565505804311
+county_name,Lebanon County,179,108,60.33519553072626
+county_name,Lee County,1814,1131,62.348401323043
+county_name,Lehigh County,168,105,62.5
+county_name,Leon County,504,276,54.761904761904766
+county_name,Lexington County,4464,2812,62.99283154121864
+county_name,Liberty County,1065,599,56.24413145539906
+county_name,Licking County,413,249,60.290556900726386
+county_name,Limestone County,194,123,63.4020618556701
+county_name,Lincoln County,614,407,66.28664495114006
+county_name,Linn County,823,575,69.86634264884569
+county_name,Little River County,13,9,69.23076923076923
+county_name,Livingston County,1171,738,63.02305721605465
+county_name,Livingston Parish,294,192,65.3061224489796
+county_name,Logan County,40,25,62.5
+county_name,Long County,280,185,66.07142857142857
+county_name,Lonoke County,162,113,69.75308641975309
+county_name,Lorain County,554,364,65.70397111913357
+county_name,Los Angeles County,7379,4659,63.13863667163573
+county_name,Loudon County,66,40,60.60606060606061
+county_name,Loudoun County,596,424,71.14093959731544
+county_name,Lowndes County,1274,876,68.75981161695447
+county_name,Loíza Municipio,262,137,52.29007633587786
+county_name,Lubbock County,271,211,77.85977859778598
+county_name,Lucas County,716,489,68.29608938547486
+county_name,Luquillo Municipio,340,175,51.470588235294116
+county_name,Luzerne County,357,227,63.58543417366946
+county_name,Lycoming County,172,120,69.76744186046511
+county_name,Lynchburg city,108,74,68.51851851851852
+county_name,Lynn County,4,2,50.0
+county_name,Macomb County,1272,843,66.27358490566037
+county_name,Macon County,285,218,76.49122807017544
+county_name,Macoupin County,64,47,73.4375
+county_name,Madera County,28,16,57.14285714285714
+county_name,Madison County,2085,1402,67.24220623501199
+county_name,Mahoning County,362,248,68.50828729281768
+county_name,Manassas Park city,27,14,51.85185185185185
+county_name,Manassas city,57,48,84.21052631578947
+county_name,Manatee County,393,259,65.9033078880407
+county_name,Manatí Municipio,424,220,51.886792452830186
+county_name,Marathon County,2011,1441,71.65589259075087
+county_name,Maricopa County,50988,32156,63.06581940848828
+county_name,Marin County,50,31,62.0
+county_name,Marion County,2361,1523,64.50656501482422
+county_name,Marshall County,110,67,60.909090909090914
+county_name,Martin County,276,164,59.42028985507246
+county_name,Matanuska-Susitna Borough,2959,2023,68.36769178776613
+county_name,Mathews County,11,9,81.81818181818183
+county_name,Maui County,186,121,65.05376344086021
+county_name,Maunabo Municipio,75,36,48.0
+county_name,Maury County,106,74,69.81132075471697
+county_name,Mayagüez Municipio,41,26,63.41463414634146
+county_name,McClain County,40,31,77.5
+county_name,McCook County,8,5,62.5
+county_name,McDonald County,3,1,33.33333333333333
+county_name,McDuffie County,394,173,43.90862944162436
+county_name,McHenry County,670,470,70.1492537313433
+county_name,McIntosh County,314,176,56.05095541401274
+county_name,McLean County,901,696,77.2475027746948
+county_name,McLennan County,49,21,42.857142857142854
+county_name,Meade County,558,311,55.7347670250896
+county_name,Mecklenburg County,1780,1199,67.35955056179776
+county_name,Medina County,478,325,67.99163179916317
+county_name,Menard County,11,5,45.45454545454545
+county_name,Merced County,52,29,55.769230769230774
+county_name,Mercer County,632,386,61.07594936708861
+county_name,Meriwether County,99,47,47.474747474747474
+county_name,Merrick County,185,123,66.48648648648648
+county_name,Mesa County,321,218,67.91277258566979
+county_name,Miami County,462,284,61.471861471861466
+county_name,Miami-Dade County,2363,1178,49.85188319932289
+county_name,Middlesex County,6970,4669,66.98708751793401
+county_name,Midland County,512,352,68.75
+county_name,Mille Lacs County,207,122,58.93719806763285
+county_name,Miller County,47,36,76.59574468085107
+county_name,Mills County,22,12,54.54545454545454
+county_name,Milwaukee County,15238,9893,64.92321827011419
+county_name,Mineral County,28,13,46.42857142857143
+county_name,Minnehaha County,236,182,77.11864406779661
+county_name,Missoula County,2062,1474,71.48399612027157
+county_name,Mobile County,763,434,56.88073394495413
+county_name,Moca Municipio,19,10,52.63157894736842
+county_name,Mohave County,5805,3539,60.9646856158484
+county_name,Moniteau County,2,2,100.0
+county_name,Monmouth County,962,601,62.474012474012476
+county_name,Monongalia County,158,96,60.75949367088608
+county_name,Monroe County,9901,7042,71.12412887587112
+county_name,Montcalm County,60,36,60.0
+county_name,Monterey County,492,343,69.71544715447155
+county_name,Montgomery County,11000,7105,64.5909090909091
+county_name,Montour County,43,34,79.06976744186046
+county_name,Morgan County,542,324,59.77859778597786
+county_name,Morovis Municipio,312,164,52.56410256410257
+county_name,Morris County,454,257,56.6079295154185
+county_name,Morrow County,64,37,57.8125
+county_name,Morton County,61,52,85.24590163934425
+county_name,Multnomah County,1335,949,71.08614232209737
+county_name,Murray County,544,282,51.83823529411765
+county_name,Muscogee County,2838,1539,54.22832980972516
+county_name,Muskegon County,70,40,57.14285714285714
+county_name,Naguabo Municipio,256,126,49.21875
+county_name,Napa County,298,189,63.42281879194631
+county_name,Naranjito Municipio,165,87,52.72727272727272
+county_name,Nash County,105,52,49.523809523809526
+county_name,Nassau County,1004,631,62.84860557768924
+county_name,Natrona County,499,366,73.34669338677354
+county_name,Nelson County,23,12,52.17391304347826
+county_name,New Castle County,2361,1519,64.33714527742482
+county_name,New Hanover County,150,95,63.33333333333333
+county_name,New Haven County,9085,5459,60.08805723720418
+county_name,New Kent County,45,31,68.88888888888889
+county_name,New London County,1756,1148,65.37585421412301
+county_name,New York County,8466,5116,60.429955114575954
+county_name,Newport County,2134,1415,66.30740393626992
+county_name,Newport News city,193,128,66.32124352331607
+county_name,Newton County,949,541,57.007376185458384
+county_name,Nez Perce County,7,3,42.857142857142854
+county_name,Niagara County,66,43,65.15151515151516
+county_name,Nicollet County,36,29,80.55555555555556
+county_name,Norfolk County,1408,997,70.8096590909091
+county_name,Norfolk city,326,209,64.11042944785275
+county_name,Northampton County,152,97,63.81578947368421
+county_name,Nueces County,6793,4043,59.51715000736052
+county_name,Oakland County,1869,1246,66.66666666666666
+county_name,Ocean County,962,616,64.03326403326403
+county_name,Oconee County,6,1,16.666666666666664
+county_name,Oconto County,1270,909,71.5748031496063
+county_name,Oglethorpe County,2,2,100.0
+county_name,Ohio County,75,48,64.0
+county_name,Okaloosa County,390,247,63.33333333333333
+county_name,Oklahoma County,680,433,63.67647058823529
+county_name,Okmulgee County,45,32,71.11111111111111
+county_name,Oldham County,556,379,68.16546762589928
+county_name,Oliver County,4,1,25.0
+county_name,Olmsted County,4490,3274,72.91759465478842
+county_name,Oneida County,909,663,72.93729372937293
+county_name,Onondaga County,2102,1576,74.97621313035204
+county_name,Onslow County,130,62,47.69230769230769
+county_name,Ontario County,1761,1276,72.45883021010789
+county_name,Orange County,11667,7215,61.84109025456416
+county_name,Orleans County,435,248,57.01149425287356
+county_name,Orleans Parish,630,346,54.920634920634924
+county_name,Orocovis Municipio,251,122,48.60557768924303
+county_name,Osage County,439,281,64.00911161731207
+county_name,Osceola County,431,253,58.70069605568445
+county_name,Oswego County,617,445,72.12317666126418
+county_name,Ottawa County,347,241,69.45244956772333
+county_name,Ouachita Parish,255,173,67.84313725490196
+county_name,Outagamie County,342,273,79.82456140350878
+county_name,Owen County,7,2,28.57142857142857
+county_name,Owyhee County,8,5,62.5
+county_name,Ozaukee County,2457,1803,73.38217338217338
+county_name,Palm Beach County,1819,1089,59.86805937328202
+county_name,Pamlico County,37,17,45.94594594594595
+county_name,Park County,39,23,58.97435897435898
+county_name,Parker County,290,182,62.758620689655174
+county_name,Pasco County,533,305,57.223264540337716
+county_name,Passaic County,447,253,56.59955257270693
+county_name,Patillas Municipio,5,4,80.0
+county_name,Paulding County,1222,751,61.45662847790507
+county_name,Pawnee County,9,5,55.55555555555556
+county_name,Peach County,264,165,62.5
+county_name,Pend Oreille County,20,13,65.0
+county_name,Pender County,42,28,66.66666666666666
+county_name,Pendleton County,271,129,47.601476014760145
+county_name,Pennington County,19,13,68.42105263157895
+county_name,Penobscot County,190,121,63.68421052631579
+county_name,Peoria County,165,127,76.96969696969697
+county_name,Perry County,147,80,54.421768707483
+county_name,Person County,62,42,67.74193548387096
+county_name,Petersburg city,33,19,57.57575757575758
+county_name,Peńuelas Municipio,13,6,46.15384615384615
+county_name,Philadelphia County,1123,618,55.03116651825467
+county_name,Piatt County,135,106,78.51851851851852
+county_name,Pickaway County,115,79,68.69565217391305
+county_name,Pickens County,724,445,61.46408839779005
+county_name,Pierce County,1801,1157,64.24208772903943
+county_name,Pike County,246,126,51.21951219512195
+county_name,Pima County,2085,1388,66.57074340527578
+county_name,Pinal County,4202,2568,61.113755354593046
+county_name,Pinellas County,927,509,54.90830636461704
+county_name,Pitt County,241,151,62.655601659751035
+county_name,Placer County,1018,714,70.13752455795678
+county_name,Plaquemines Parish,28,16,57.14285714285714
+county_name,Platte County,155,112,72.25806451612902
+county_name,Plymouth County,1235,776,62.83400809716599
+county_name,Poinsett County,59,43,72.88135593220339
+county_name,Pointe Coupee Parish,39,32,82.05128205128204
+county_name,Polk County,2557,1641,64.17676965193586
+county_name,Ponce Municipio,86,48,55.81395348837209
+county_name,Poquoson city,15,11,73.33333333333333
+county_name,Portage County,1463,889,60.76555023923444
+county_name,Porter County,236,169,71.61016949152543
+county_name,Portsmouth city,140,82,58.57142857142858
+county_name,Posey County,56,34,60.71428571428571
+county_name,Pottawatomie County,678,527,77.72861356932154
+county_name,Pottawattamie County,188,135,71.80851063829788
+county_name,Potter County,116,84,72.41379310344827
+county_name,Powhatan County,64,42,65.625
+county_name,Preston County,39,21,53.84615384615385
+county_name,Prince George County,34,20,58.82352941176471
+county_name,Prince George's County,3030,1563,51.584158415841586
+county_name,Prince William County,626,404,64.5367412140575
+county_name,Providence County,11490,7119,61.958224543080945
+county_name,Pueblo County,326,214,65.6441717791411
+county_name,Pulaski County,834,547,65.58752997601918
+county_name,Putnam County,261,158,60.53639846743295
+county_name,Quebradillas Municipio,19,11,57.89473684210527
+county_name,Queen Anne's County,1265,737,58.26086956521739
+county_name,Queens County,14147,7642,54.01851982752527
+county_name,Racine County,3051,2118,69.41986234021633
+county_name,Radford city,17,10,58.82352941176471
+county_name,Raleigh County,119,71,59.66386554621849
+county_name,Ramsey County,2484,1695,68.23671497584542
+county_name,Randall County,238,170,71.42857142857143
+county_name,Randolph County,210,141,67.14285714285714
+county_name,Rankin County,292,228,78.08219178082192
+county_name,Rapides Parish,310,201,64.83870967741936
+county_name,Rappahannock County,7,4,57.14285714285714
+county_name,Ray County,19,15,78.94736842105263
+county_name,Rensselaer County,6,5,83.33333333333334
+county_name,Richland County,5695,3407,59.82440737489026
+county_name,Richmond County,8485,4593,54.130819092516205
+county_name,Richmond city,288,185,64.23611111111111
+county_name,Riley County,1263,954,75.53444180522565
+county_name,Rincón Municipio,5,3,60.0
+county_name,Riverside County,39203,23202,59.18424610361453
+county_name,Roane County,53,27,50.943396226415096
+county_name,Roanoke County,219,157,71.68949771689498
+county_name,Roanoke city,191,109,57.06806282722513
+county_name,Robertson County,369,219,59.34959349593496
+county_name,Rock County,4397,2982,67.8189674778258
+county_name,Rock Island County,285,217,76.14035087719299
+county_name,Rockdale County,587,339,57.75127768313458
+county_name,Rockingham County,417,262,62.829736211031175
+county_name,Rockland County,2700,1498,55.481481481481474
+county_name,Rockwall County,928,624,67.24137931034483
+county_name,Rogers County,83,46,55.42168674698795
+county_name,Rowan County,182,111,60.98901098901099
+county_name,Rusk County,49,30,61.224489795918366
+county_name,Russell County,102,56,54.90196078431373
+county_name,Rutherford County,260,179,68.84615384615384
+county_name,Río Grande Municipio,672,371,55.208333333333336
+county_name,Sabana Grande Municipio,12,7,58.333333333333336
+county_name,Sacramento County,3136,2180,69.51530612244898
+county_name,Sagadahoc County,61,43,70.49180327868852
+county_name,Saginaw County,161,93,57.7639751552795
+county_name,Salem County,50,27,54.0
+county_name,Salem city,35,28,80.0
+county_name,Saline County,288,188,65.27777777777779
+county_name,Salt Lake County,1641,1129,68.7995124923827
+county_name,Saluda County,198,87,43.93939393939394
+county_name,San Benito County,45,30,66.66666666666666
+county_name,San Bernardino County,28609,17183,60.061519102380366
+county_name,San Diego County,5970,4005,67.08542713567839
+county_name,San Francisco County,709,501,70.66290550070522
+county_name,San Germán Municipio,12,7,58.333333333333336
+county_name,San Joaquin County,859,567,66.0069848661234
+county_name,San Juan County,166,95,57.22891566265061
+county_name,San Juan Municipio,4146,2291,55.258080077182825
+county_name,San Lorenzo Municipio,391,225,57.54475703324808
+county_name,San Luis Obispo County,106,71,66.98113207547169
+county_name,San Mateo County,830,633,76.26506024096386
+county_name,San Patricio County,1157,658,56.87121866897148
+county_name,San Sebastián Municipio,7,7,100.0
+county_name,Sandoval County,347,202,58.21325648414985
+county_name,Sangamon County,188,130,69.14893617021278
+county_name,Santa Barbara County,657,456,69.40639269406392
+county_name,Santa Clara County,1656,1202,72.58454106280193
+county_name,Santa Cruz County,208,139,66.82692307692307
+county_name,Santa Fe County,342,187,54.67836257309941
+county_name,Santa Rosa County,234,143,61.111111111111114
+county_name,Sarasota County,509,338,66.40471512770138
+county_name,Saratoga County,11,10,90.9090909090909
+county_name,Sarpy County,3983,3040,76.32437860908863
+county_name,Saunders County,461,337,73.10195227765726
+county_name,Schenectady County,3,2,66.66666666666666
+county_name,Scott County,2720,1928,70.88235294117648
+county_name,Sebastian County,129,84,65.11627906976744
+county_name,Sedgwick County,12018,8289,68.97154268597104
+county_name,Seminole County,600,403,67.16666666666666
+county_name,Sequatchie County,21,11,52.38095238095239
+county_name,Sequoyah County,46,29,63.04347826086957
+county_name,Seward County,432,328,75.92592592592592
+county_name,Shasta County,4498,2725,60.582481102712315
+county_name,Shawnee County,4078,2830,69.39676311917606
+county_name,Sheboygan County,1703,1173,68.87844979448033
+county_name,Shelby County,2231,1400,62.75212909009413
+county_name,Sherburne County,754,528,70.026525198939
+county_name,Sibley County,74,55,74.32432432432432
+county_name,Simpson County,28,19,67.85714285714286
+county_name,Skagit County,24,19,79.16666666666666
+county_name,Skamania County,13,7,53.84615384615385
+county_name,Smith County,90,49,54.44444444444444
+county_name,Snohomish County,1007,691,68.61966236345582
+county_name,Solano County,863,563,65.23754345307069
+county_name,Somerset County,551,312,56.62431941923774
+county_name,Somervell County,22,13,59.09090909090909
+county_name,Sonoma County,592,394,66.55405405405406
+county_name,Spalding County,308,188,61.038961038961034
+county_name,Spartanburg County,1202,722,60.06655574043261
+county_name,Spencer County,199,122,61.30653266331658
+county_name,Spokane County,648,466,71.91358024691358
+county_name,Spotsylvania County,210,139,66.19047619047619
+county_name,St. Bernard Parish,61,37,60.65573770491803
+county_name,St. Charles County,894,634,70.917225950783
+county_name,St. Charles Parish,113,72,63.716814159292035
+county_name,St. Clair County,603,374,62.02321724709784
+county_name,St. Croix County,1915,1294,67.57180156657964
+county_name,St. Helena Parish,10,5,50.0
+county_name,St. James Parish,32,22,68.75
+county_name,St. John the Baptist Parish,69,43,62.31884057971014
+county_name,St. Johns County,664,465,70.03012048192771
+county_name,St. Joseph County,421,285,67.6959619952494
+county_name,St. Louis County,2028,1354,66.76528599605523
+county_name,St. Louis city,461,295,63.99132321041214
+county_name,St. Lucie County,474,285,60.12658227848101
+county_name,St. Martin Parish,107,60,56.074766355140184
+county_name,St. Mary's County,2038,1284,63.00294406280668
+county_name,St. Tammany Parish,608,362,59.539473684210535
+county_name,Stafford County,217,144,66.3594470046083
+county_name,Stanislaus County,512,365,71.2890625
+county_name,Stark County,1744,1153,66.11238532110092
+county_name,Staunton city,51,35,68.62745098039215
+county_name,Stearns County,3470,2579,74.3227665706052
+county_name,Stevens County,47,30,63.829787234042556
+county_name,Stokes County,44,24,54.54545454545454
+county_name,Storey County,19,13,68.42105263157895
+county_name,Story County,143,108,75.52447552447552
+county_name,Strafford County,49,25,51.02040816326531
+county_name,Suffolk County,2142,1399,65.31279178338002
+county_name,Suffolk city,152,93,61.18421052631579
+county_name,Sullivan County,229,142,62.00873362445415
+county_name,Summit County,4770,3025,63.41719077568134
+county_name,Sumner County,799,570,71.33917396745932
+county_name,Sumter County,316,204,64.55696202531645
+county_name,Sussex County,1776,1086,61.14864864864865
+county_name,Sutter County,104,63,60.57692307692307
+county_name,Tangipahoa Parish,207,112,54.106280193236714
+county_name,Tarrant County,3508,2330,66.41961231470923
+county_name,Tate County,43,29,67.44186046511628
+county_name,Taylor County,172,132,76.74418604651163
+county_name,Tazewell County,129,103,79.84496124031007
+county_name,Teller County,30,20,66.66666666666666
+county_name,Terrebonne Parish,179,112,62.56983240223464
+county_name,Terrell County,11,8,72.72727272727273
+county_name,Thurston County,210,134,63.8095238095238
+county_name,Tippecanoe County,193,140,72.53886010362694
+county_name,Tipton County,100,62,62.0
+county_name,Toa Alta Municipio,877,534,60.889395667046756
+county_name,Toa Baja Municipio,894,481,53.80313199105146
+county_name,Tolland County,2453,1640,66.85690990623726
+county_name,Tom Green County,51,38,74.50980392156863
+county_name,Tompkins County,78,69,88.46153846153845
+county_name,Tooele County,111,78,70.27027027027027
+county_name,Torrance County,19,8,42.10526315789473
+county_name,Travis County,15260,9856,64.58715596330276
+county_name,Trigg County,248,160,64.51612903225806
+county_name,Trimble County,81,53,65.4320987654321
+county_name,Trousdale County,10,5,50.0
+county_name,Trujillo Alto Municipio,755,425,56.29139072847682
+county_name,Trumbull County,351,219,62.39316239316239
+county_name,Tulare County,300,161,53.666666666666664
+county_name,Tulsa County,403,243,60.297766749379655
+county_name,Tunica County,8,5,62.5
+county_name,Turner County,10,7,70.0
+county_name,Tuscaloosa County,317,198,62.46056782334385
+county_name,Twiggs County,93,33,35.483870967741936
+county_name,Ulster County,228,143,62.71929824561403
+county_name,Unicoi County,20,10,50.0
+county_name,Union County,1138,707,62.12653778558875
+county_name,Union Parish,31,17,54.83870967741935
+county_name,Upshur County,36,20,55.55555555555556
+county_name,Utah County,700,477,68.14285714285714
+county_name,Utuado Municipio,5,3,60.0
+county_name,Valencia County,126,60,47.61904761904761
+county_name,Van Buren County,48,29,60.416666666666664
+county_name,Vanderburgh County,346,240,69.36416184971098
+county_name,Vega Alta Municipio,480,243,50.625
+county_name,Vega Baja Municipio,666,351,52.702702702702695
+county_name,Ventura County,9511,6365,66.92251077699505
+county_name,Vermilion County,100,68,68.0
+county_name,Vermilion Parish,139,92,66.18705035971223
+county_name,Vermillion County,1,1,100.0
+county_name,Victoria County,7,1,14.285714285714285
+county_name,Vigo County,9,2,22.22222222222222
+county_name,Villalba Municipio,11,6,54.54545454545454
+county_name,Virginia Beach city,800,551,68.875
+county_name,Volusia County,1122,689,61.40819964349377
+county_name,Wabasha County,570,403,70.7017543859649
+county_name,Wabaunsee County,181,124,68.50828729281768
+county_name,Wagoner County,71,41,57.74647887323944
+county_name,Wake County,2274,1552,68.24978012313105
+county_name,Wakulla County,54,21,38.88888888888889
+county_name,Walker County,1366,756,55.344070278184475
+county_name,Walla Walla County,62,36,58.06451612903226
+county_name,Waller County,64,44,68.75
+county_name,Walton County,946,624,65.96194503171247
+county_name,Warren County,3496,2420,69.22196796338673
+county_name,Warrick County,124,90,72.58064516129032
+county_name,Washington County,13516,9397,69.52500739863865
+county_name,Washoe County,1275,874,68.54901960784315
+county_name,Washtenaw County,540,392,72.5925925925926
+county_name,Waukesha County,9996,7279,72.81912765106043
+county_name,Wayne County,4048,2690,66.45256916996047
+county_name,Waynesboro city,35,22,62.857142857142854
+county_name,Webb County,204,117,57.35294117647059
+county_name,Weber County,262,162,61.832061068702295
+county_name,Webster County,738,477,64.63414634146342
+county_name,Webster Parish,55,34,61.81818181818181
+county_name,Weld County,789,533,67.55386565272497
+county_name,Wells County,33,26,78.78787878787878
+county_name,West Baton Rouge Parish,48,26,54.166666666666664
+county_name,West Feliciana Parish,20,10,50.0
+county_name,Westchester County,9356,5480,58.57203933304831
+county_name,Westmoreland County,370,242,65.4054054054054
+county_name,Whatcom County,238,152,63.86554621848739
+county_name,Whitfield County,1473,794,53.903598099117445
+county_name,Whitley County,42,32,76.19047619047619
+county_name,Wichita County,9,4,44.44444444444444
+county_name,Wicomico County,1187,706,59.4776748104465
+county_name,Will County,1377,933,67.75599128540306
+county_name,Williamsburg city,8,7,87.5
+county_name,Williamson County,9880,6670,67.51012145748987
+county_name,Wilson County,212,154,72.64150943396226
+county_name,Winchester city,43,22,51.162790697674424
+county_name,Windham County,592,361,60.979729729729726
+county_name,Winnebago County,3209,2266,70.61389841071986
+county_name,Wirt County,7,5,71.42857142857143
+county_name,Wise County,150,93,62.0
+county_name,Wood County,320,202,63.125
+county_name,Woodbury County,177,126,71.1864406779661
+county_name,Woodford County,477,322,67.50524109014675
+county_name,Worcester County,3292,2148,65.24908869987848
+county_name,Worth County,13,4,30.76923076923077
+county_name,Wright County,1059,728,68.74409820585457
+county_name,Wyandotte County,989,526,53.1850353892821
+county_name,Wyoming County,41,24,58.536585365853654
+county_name,Yabucoa Municipio,336,172,51.19047619047619
+county_name,Yadkin County,42,23,54.761904761904766
+county_name,Yakima County,328,192,58.536585365853654
+county_name,Yamhill County,188,142,75.53191489361703
+county_name,Yates County,331,236,71.29909365558912
+county_name,Yauco Municipio,29,13,44.827586206896555
+county_name,Yavapai County,516,334,64.72868217054264
+county_name,Yazoo County,26,23,88.46153846153845
+county_name,Yellowstone County,3733,2753,73.74765604071793
+county_name,Yolo County,330,225,68.18181818181817
+county_name,York County,6913,4584,66.30985100535224
+county_name,Yuba County,74,48,64.86486486486487
+county_name,Yuma County,392,257,65.56122448979592
+applicant_ethnicity_name,Hispanic or Latino,135661,76879,56.669934616433615
+applicant_ethnicity_name,Not Hispanic or Latino,1038708,674277,64.91497129125798
+co_applicant_ethnicity_name,Hispanic or Latino,54369,32582,59.92753223344185
+co_applicant_ethnicity_name,No co-applicant,648563,395080,60.91621014458117
+co_applicant_ethnicity_name,Not Hispanic or Latino,471437,323494,68.61871257453276
+applicant_race_name_1,American Indian or Alaska Native,9452,4720,49.93652137113838
+applicant_race_name_1,Asian,66070,42021,63.60072650219464
+applicant_race_name_1,Black or African American,99215,48942,49.329234490752405
+applicant_race_name_1,Native Hawaiian or Other Pacific Islander,4902,2700,55.079559363525085
+applicant_race_name_1,White,994730,652773,65.62313391573593
+co_applicant_race_name_1,American Indian or Alaska Native,3191,1677,52.55405828893763
+co_applicant_race_name_1,Asian,30211,19745,65.3569891761279
+co_applicant_race_name_1,Black or African American,24602,12938,52.58922038858629
+co_applicant_race_name_1,Native Hawaiian or Other Pacific Islander,2307,1395,60.46814044213264
+co_applicant_race_name_1,No co-applicant,648563,395080,60.91621014458117
+co_applicant_race_name_1,White,465495,320321,68.81298402775539
+applicant_sex_name,Female,364721,225526,61.83521102431722
+applicant_sex_name,Male,809648,525630,64.92080509060727
+co_applicant_sex_name,Female,421072,288279,68.46311319679295
+co_applicant_sex_name,Male,104734,67797,64.73256058204595
+co_applicant_sex_name,No co-applicant,648563,395080,60.91621014458117
+lien_status_name,Not secured by a lien,45516,21171,46.51331399947271
+lien_status_name,Secured by a first lien,1087040,706196,64.96504268472182
+lien_status_name,Secured by a subordinate lien,41813,23789,56.893789012986396
+action_taken_name_original,Application approved but not accepted,43079,0,0.0
+action_taken_name_original,Application denied by financial institution,212749,0,0.0
+action_taken_name_original,Application withdrawn by applicant,120405,0,0.0
+action_taken_name_original,File closed for incompleteness,46917,0,0.0
+action_taken_name_original,Loan originated,751156,751156,100.0
+action_taken_name_original,Preapproval request approved but not accepted,14,0,0.0
+action_taken_name_original,Preapproval request denied by financial institution,49,0,0.0
+loan_success,0,423213,0,0.0
+loan_success,1,751156,751156,100.0
+tract_to_msamd_income_bin,Low (6-89),298743,174235,58.32270546924949
+tract_to_msamd_income_bin,Medium (89-136),581368,378631,65.12759560209712
+tract_to_msamd_income_bin,High (136-475),294097,198195,67.3910308503657
+minority_population_bin,Low (0-11),285657,194433,68.06519707201294
+minority_population_bin,Medium (11-47),597506,392033,65.61155871238114
+minority_population_bin,High (47-100),291206,164690,56.554466597528894
+number_of_owner_occupied_units_bin,Low (3-937),294190,178070,60.52890988816751
+number_of_owner_occupied_units_bin,Medium (937-1790),587079,379214,64.59335115035626
+number_of_owner_occupied_units_bin,High (1790-8526),293100,193872,66.1453428863869
+applicant_income_bin,Low (1000-48000),298380,166774,55.89315637777331
+applicant_income_bin,Medium (48000-119000),585134,385236,65.8372270283388
+applicant_income_bin,High (119000-9999000),290855,199146,68.46916848601536
+number_of_1_to_4_family_units_bin,Low (1-1268),293947,183316,62.363623374281765
+number_of_1_to_4_family_units_bin,Medium (1268-2257),587045,377539,64.3117648561865
+number_of_1_to_4_family_units_bin,High (2257-13227),293377,190301,64.86568476738121
+loan_amount_bin,Low (1000-96000),296592,167596,56.50725575875276
+loan_amount_bin,Medium (96000-254000),584748,386416,66.08248339455629
+loan_amount_bin,High (254000-23500000),293029,197144,67.27798272525928
+population_bin,Low (31-3755),293898,184458,62.762591103035746
+population_bin,Medium (3755-6477),587077,376592,64.14695176271596
+population_bin,High (6477-33201),293394,190106,64.79546275656625
+hud_median_family_income_bin,Low (17500-60700),324827,197700,60.86316716282821
+hud_median_family_income_bin,Medium (60700-74900),561169,364629,64.97668260363633
+hud_median_family_income_bin,High (74900-111300),288373,188827,65.4801246996078
