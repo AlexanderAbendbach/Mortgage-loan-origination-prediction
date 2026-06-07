@@ -79,4 +79,4 @@ To run the Dash dashboard locally, execute the dashboard cell or script and open
 
 ## Status
 
-Part 1 and Part 2 are completed. Part 3 is still in progress.
+Complete
